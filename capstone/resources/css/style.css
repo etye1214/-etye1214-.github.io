@@ -1,0 +1,191 @@
+html {
+  font-family: Helvetica;
+  font-size: 16px;
+}
+
+.sitecontainer {
+  width: 70.84rem;
+  margin: auto;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 4rem;
+}
+
+#logo {
+  display: flex;
+  margin-left: 1.5rem;
+}
+
+nav {
+  margin-right: 1.5rem;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline;
+  margin-left: 1rem;
+}
+
+.banner {
+  background-color: #CECECE;
+  display: flex;
+  align-items: center;
+}
+
+.banner img {
+  width: 41.5rem;
+  height: auto;
+  margin: 2rem 2.5rem 2rem 1.5rem;
+}
+
+.banner h2 {
+  color: #434343;
+  font-size: 2.4rem;
+  font-weight: bold;
+  margin-bottom: 2.5rem;
+}
+
+.banner #bannertext {
+  color: #434343;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.banner #starthere {
+  text-align: center;
+  background-color: #434343;
+  color: white;
+  font-size: 1.5rem;
+}
+
+#bannercontent {
+  width: 20rem;
+}
+
+.main .container {
+  display: flex;
+  margin-top: 2rem;
+}
+
+.main .container .one {
+  margin-left: 1.5rem;
+  width: 41.5rem;
+}
+
+.main .container .one img {
+  width: inherit;
+  height: auto;
+}
+
+.main .container .two {
+  margin-left: 1.5rem;
+  width: 26.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main .container .column .box {
+  display: flex;
+  align-items: center;
+  margin:
+}
+
+.main .container .column .box img {
+  width: 35%;
+  height: auto;
+  margin: 1rem 1rem;
+}
+
+.startlearning {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.startlearning h2 {
+  margin-top: 2rem;
+}
+
+.startlearning .container {
+  margin: 2rem 7rem 2rem 7rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.startlearning .container .box {
+  width: 17.63rem;
+  margin-bottom: 1rem;
+}
+
+.startlearning .container .box img {
+  width: inherit;
+  height: auto;
+  display: block;
+}
+
+.startlearning .container .box h3, p {
+  margin-left: 1rem;
+}
+
+.thesis {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.thesis .container {
+  display: flex;
+}
+
+.thesis .container .one {
+  margin-left: 1.5rem;
+  width: 41.5rem;
+  margin-bottom: 2rem;
+}
+
+.thesis .container .one video {
+  width: inherit;
+  height: auto;
+}
+
+.thesis .container .two {
+  margin-left: 1.5rem;
+  width: 26.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.thesis .container .column .box {
+  display: flex;
+  align-items: center;
+  margin:
+}
+
+.thesis .container .column .box img {
+  width: 35%;
+  height: auto;
+  margin: 1rem 1rem;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer h4 {
+  margin-left: 1.5rem;
+}
+
+.footer nav {
+  margin-right: 1.5rem;
+}
